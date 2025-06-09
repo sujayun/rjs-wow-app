@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rjs-wow-app/static/js/main.83089e1d.js",
+    "index.html": "/rjs-wow-app/index.html",
+    "main.83089e1d.js.map": "/rjs-wow-app/static/js/main.83089e1d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.83089e1d.js"
+  ]
+}
